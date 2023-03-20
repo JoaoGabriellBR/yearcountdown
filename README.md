@@ -1,14 +1,10 @@
 <div align="center">
-    <img width="350px" height="350px" src="https://user-images.githubusercontent.com/88870257/221100392-5fa4758b-fb67-436e-b2bb-5b7e7763a5a3.png">
+    <img width="160rem" height="160rem" src="https://user-images.githubusercontent.com/88870257/226424442-8e629ba1-beab-4106-ae7f-089be1096c98.png">
 </div>
 
 ## Sobre o Projeto
 
 https://siteyearcountdown.netlify.app
-
-<div align="start">
-    <img width="400px" height="350px" src="https://user-images.githubusercontent.com/88870257/221101281-e2995b46-7fdf-412d-8348-30e5a70aada8.png">
-</div>
 
 ### <h3>⚙️ Tecnologias utilizadas</h3>
  <br> <br>
